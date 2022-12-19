@@ -15,9 +15,9 @@ Implementando um mini game para praticar os conceitos de integração entre HTML
 </p>
 <p align="center">
   <img src="./imgs/Captura2.png" width="500px" alt="Tela Play Game">
-  <p align="center">Figura 1: Captura de tela - Play Game</p>
+  <p align="center">Figura 2: Captura de tela - Play Game</p>
 </p>
 <p align="center">
   <img src="./imgs/Captura3.png" width="500px" alt="Tela de Restart">
-  <p align="center">Figura 1: Captura de tela - Restart (Game Over)</p>
+  <p align="center">Figura 3: Captura de tela - Restart (Game Over)</p>
 </p>
