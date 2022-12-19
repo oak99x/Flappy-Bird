@@ -1,6 +1,6 @@
 # Flappy Bird
 ### Integrando HTML, CSS e JS
-Implementando um mini game para práticar os conceitos de integração entre HTML, CSS e JS.
+Implementando um mini game para praticar os conceitos de integração entre HTML, CSS e JS.
 ### Utilizando:
 - JavaScript
 - HTML
