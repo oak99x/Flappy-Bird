@@ -1,7 +1,8 @@
 # Flappy Bird
-### Integrando HTML, CSS e JS
-Implementando um mini game para praticar os conceitos de integração entre HTML, CSS e JS.
-### Utilizando:
+Flappy Bird is an arcade game where you control an adorable bird that has to fly through many obstacles, all made up of tubes.
+### Practicing HTML, CSS, and JS integration
+For practice, the idea was to implement a simple mini game without much complexity. Thus executing the concepts of integration between HTML, CSS and JS. The entire project is in its purest form, without libraries or external tools
+### Used tools:
 - JavaScript
 - HTML
 - CSS
