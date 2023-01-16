@@ -7,6 +7,15 @@ For practice, the idea was to implement a simple mini game without much complexi
 - HTML
 - CSS
 
+### Available Scripts
+
+In the project directory, you can run:
+
+- Install the dependencies
+    #### `npm i`
+
+- Run the project
+    #### Open the `index.html` file in your browser
 
 <br>
 
