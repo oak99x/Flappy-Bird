@@ -24,6 +24,9 @@ In the project directory, you can run:
 
 <br>
 
+#### <a href="https://flappy-bird-phi-livid.vercel.app/">Link to open the game</a>
+
+
 <p align="center">
   <img src="./imgs/Captura1.png" width="500px" alt="Tela de Start">
   <p align="center">Figura 1: Captura de tela - Start</p>
