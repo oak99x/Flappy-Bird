@@ -24,7 +24,7 @@ In the project directory, you can run:
 
 <br>
 
-#### <a href="https://flappy-bird-phi-livid.vercel.app/">Link to open the game</a>
+#### <a href="https://flappy-bird-phi-livid.vercel.app/" target="_blank">Link to open the game</a>
 
 
 <p align="center">
