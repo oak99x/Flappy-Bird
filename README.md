@@ -1,7 +1,12 @@
 # Flappy Bird
-Flappy Bird is an arcade game where you control an adorable bird that has to fly through many obstacles, all made up of tubes.
-### Practicing HTML, CSS, and JS integration
-For practice, the idea was to implement a simple mini game without much complexity. Thus executing the concepts of integration between HTML, CSS and JS. The entire project is in its purest form, without libraries or external tools
+
+Flappy Bird is an arcade game where you control a little bird that has to fly through various obstacles, all made of tubes.
+
+A simple project to have fun while coding. This was developed using Javascript, HTML and CSS technologies.
+The HTML and CSS are used to create the structure and appearance of the game page, while Javascript is used to write game logic and manage game state.
+
+This small project is not focused on the development of a game itself, but on putting into practice the concepts of integration between HTML, CSS and JS.
+
 ### Used tools:
 - JavaScript
 - HTML
